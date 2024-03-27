@@ -1,0 +1,35 @@
+{
+  "name": "cyto-element",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-element.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-element/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-element#readme",
+  "dependencies": {
+    "cytoscape": "^3.28.1",
+    "express": "^4.19.2",
+    "is-array": "^1.0.1",
+    "is-object": "^1.0.2",
+    "is-odd": "^3.0.1",
+    "is-string": "^1.0.7",
+    "koa": "^2.15.2",
+    "querystring": "^0.2.1",
+    "react": "^18.2.0",
+    "is-base": "^1.0.0",
+    "thisispro": "^1.0.0",
+    "isuse": "^1.0.0",
+    "cyto": "^1.0.0",
+    "cyto-style": "^1.0.0"
+  }
+}
