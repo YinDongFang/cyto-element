@@ -1,6 +1,6 @@
 {
   "name": "cyto-element",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,7 @@
     "thisispro": "^1.0.0",
     "isuse": "^1.0.0",
     "cyto": "^1.0.0",
-    "cyto-style": "^1.0.0"
+    "cyto-style": "^1.0.0",
+    "cyto-extensions": "^1.0.0"
   }
 }
